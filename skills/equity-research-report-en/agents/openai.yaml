@@ -1,0 +1,4 @@
+interface:
+  display_name: "Equity Research and Valuation Reports"
+  short_description: "From primary sources to judgments, models, and readable reports"
+  default_prompt: "Use $equity-research-report-en to acquire evidence, reach judgments, build a valuation, and deliver the requested company report."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "上市公司研究与估值报告"
+  short_description: "从原始资料获取和模型复算到形成明确研究判断并交付可读估值报告"
+  default_prompt: "使用 $equity-research-report-zh 完成指定上市公司的数据获取、研究判断、预测估值与报告交付。"
